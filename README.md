@@ -1,6 +1,6 @@
 ##  About Us
 Hi Everyone 👋
-Let's collaborate with us on an open source project
+Let's collaborate with us on an open source project.
 ##  Our Github stats
 ![HimtiUndira GitHub stats](https://github-readme-stats.vercel.app/api?username=himtiundira&show_icons=true&theme=tokyonight)
 ##  Most used language
